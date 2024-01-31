@@ -1,2 +1,2 @@
 # IceCream-PY
-Bla
+A icecream self-service machine system (like a CRUD) made using Python.
